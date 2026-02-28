@@ -1,0 +1,47 @@
+serverAddr = "100.100.100.100"
+serverPort = 3000
+
+[auth]
+token = "ILOVEGLINE!@"
+
+[[proxies]]
+name = "Niagara Edge Station Web"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 80
+remotePort = 5001
+
+[[proxies]]
+name = "Niagara Edge Station Web SSLTLS"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 443
+remotePort = 5002
+
+[[proxies]]
+name = "Niagara Edge Foxs"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 4911
+remotePort = 5003
+
+[[proxies]]
+name = "Niagara Edge Platform"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 5011
+remotePort = 5004
+
+[[proxies]]
+name = "test Supervisor Foxs"
+type = "tcp"
+localIP = "192.168.2.176"
+localPort = 4911
+remotePort = 5005
+
+[[proxies]]
+name = "test Supervisor Platform"
+type = "tcp"
+localIP = "192.168.2.176"
+localPort = 5011
+remotePort = 5006
