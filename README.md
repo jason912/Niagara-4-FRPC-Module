@@ -13,4 +13,4 @@ Simply drag and drop the glineFrpc module into the wiresheet, and it will be rea
 <img width="786" height="106" alt="image" src="https://github.com/user-attachments/assets/ee2701db-2533-486e-bbaf-451bb6069f77" />
 
 Logs can also be read in Niagara's Application Director.
-At this stage, we offer 10 years free early pilot licenses, then with a transition to paid licensing in the future. If you are interested, please provide your host ID to apply for a free license. Contact: jason.zhang@gline-net.com
+At this stage, we offer 10 years free early pilot licenses, then with a transition to paid licensing in the future. If you are interested, please provide your host ID to apply for a free license. Contact: jason.zhang@gline-net.com or WhatsApp +8613801909968
